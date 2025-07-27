@@ -6,7 +6,7 @@ git add *
 git commit -m "Mensagem do commit"
 #enviar para o github
 git push -u origin master
-
+github.com:PauloOrlando-escolar/GUI_python.git
 
 venv
 python3 -m venv .venv
